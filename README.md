@@ -15,10 +15,6 @@
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [App Demo Video](#app-demo-video)
-- [How to Run Locally](#how-to-run-locally)
-- [Deploy as a Live Demo (GitHub Pages)](#deploy-as-a-live-demo-github-pages)
-- [Roadmap (Optional Enhancements)](#roadmap-optional-enhancements)
-- [License](#license)
 
 ---
 
@@ -167,11 +163,6 @@ Also ensure your HTML uses correct paths after organizing folders:
 
 ---
 
-## Screenshots
-
-Place the 6 screenshots into: `assets/images/`
-
-Use the following exact filenames to match the README references:
 
 ## 📸 Website Screenshots
 
@@ -209,6 +200,9 @@ Use the following exact filenames to match the README references:
 
 This repository supports including a product demo video (recommended for fast reviewer understanding).
 
+Click below to watch the demo video:
+
+[▶ Watch DocAdvisor App Demo](video/DocAdvisor%20App%20Video.mp4)
 
  
 
