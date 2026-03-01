@@ -125,7 +125,7 @@ Typical sections included in the DocAdvisor website:
 
 ## Project Structure
 
-Recommended / clean structure (HR-friendly):
+Recommended / clean structure:
 
 ```text
 docadvisor-web/
