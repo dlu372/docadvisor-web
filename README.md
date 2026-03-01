@@ -173,12 +173,35 @@ Place the 6 screenshots into: `assets/images/`
 
 Use the following exact filenames to match the README references:
 
-1. **Homepage — Intelligent Healthcare Solution**
-2. **Feature Overview**
-3. **News / Updates**
-4. **Application Scenarios**
-5. **App Introduction Page**
-6. **Team Introduction**
+## 📸 Website Screenshots
+
+### 1️⃣ Homepage – Intelligent Healthcare Solution
+![Homepage](image/Web-mainpage01.png)
+
+---
+
+### 2️⃣ Feature Overview
+![Feature Overview](image/Web-mainpage03.png)
+
+---
+
+### 3️⃣ News & Updates Section
+![News Section](image/Web-News.png)
+
+---
+
+### 4️⃣ Application Scenarios
+![Application Scenarios](image/Web-ScenarioCase.png)
+
+---
+
+### 5️⃣ App Introduction Page
+![App Introduction](image/Web-mianpae-02.png)
+
+---
+
+### 6️⃣ Development Team Section
+![Team Section](image/Web-TeamIntro.png)
 
 ---
 
