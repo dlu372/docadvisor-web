@@ -204,5 +204,17 @@ Click below to watch the demo video:
 
 [▶ Watch DocAdvisor App Demo](video/DocAdvisor%20App%20Video.mp4)
 
+---
  
+## 👨‍💻 Author
+
+**Di Lu**  
+BCom (Information Systems & Business Analytics), University of Auckland  
+
+### 📫 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/di-lu-3572912b5  
+- 💻 GitHub: https://github.com/dlu372  
+
+---
 
