@@ -164,7 +164,7 @@ Also ensure your HTML uses correct paths after organizing folders:
 ---
 
 
-## 📸 Website Screenshots
+## Website Screenshots
 
 ### 1️⃣ Homepage – Intelligent Healthcare Solution
 ![Homepage](image/Web-mainpage01.png)
@@ -214,7 +214,6 @@ BCom (Information Systems & Business Analytics), University of Auckland
 ### 📫 Connect with Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/di-lu-3572912b5  
-- 💻 GitHub: https://github.com/dlu372  
-
+- 📮 Email: dilu.connect@gmail.com
 ---
 
