@@ -125,7 +125,7 @@ Recommended / clean structure:
 
 ```text
 docadvisor-web/
-├── index.html                  # Main entry (recommended for GitHub Pages)
+├── index.html                 
 ├── README.md
 ├── LICENSE
 ├── css/
@@ -138,7 +138,7 @@ docadvisor-web/
 │   ├── owl.theme.default.min.css
 │   └── themify-icons.css
 ├── js/
-│   └── main.js                 # Main JS logic (rename if needed)
+│   └── main.js                
 └── assets/
     ├── images/
     │   ├── Web-mainpage01.png
@@ -150,16 +150,6 @@ docadvisor-web/
     └── video/
         └── docadvisor-app-demo.mp4
 ```
-
-**Important:** If your entry file is currently `mainpage.html`, you can either:
-
-- rename it to `index.html` (recommended), or
-- keep it and configure GitHub Pages accordingly.
-
-Also ensure your HTML uses correct paths after organizing folders:
-
-- CSS: `href="css/style.css"`
-- JS: `src="js/main.js"`
 
 ---
 
