@@ -157,32 +157,32 @@ docadvisor-web/
 ## Website Screenshots
 
 ### 1️⃣ Homepage – Intelligent Healthcare Solution
-![Homepage](image/Web-mainpage01.png)
+![Homepage](frontend/image/Web-mainpage01.png)
 
 ---
 
 ### 2️⃣ Feature Overview
-![Feature Overview](image/Web-mainpage03.png)
+![Feature Overview](frontend/image/Web-mainpage03.png)
 
 ---
 
 ### 3️⃣ News & Updates Section
-![News Section](image/Web-News.png)
+![News Section](frontend/image/Web-News.png)
 
 ---
 
 ### 4️⃣ Application Scenarios
-![Application Scenarios](image/Web-ScenarioCase.png)
+![Application Scenarios](frontend/image/Web-ScenarioCase.png)
 
 ---
 
 ### 5️⃣ App Introduction Page
-![App Introduction](image/Web-mianpae-02.png)
+![App Introduction](frontend/image/Web-mianpae-02.png)
 
 ---
 
 ### 6️⃣ Development Team Section
-![Team Section](image/Web-TeamIntro.png)
+![Team Section](frontend/image/Web-TeamIntro.png)
 
 ---
 
@@ -192,7 +192,7 @@ This repository supports including a product demo video (recommended for fast re
 
 Click below to watch the demo video:
 
-[▶ Watch DocAdvisor App Demo](video/DocAdvisor%20App%20Video.mp4)
+[▶ Watch DocAdvisor App Demo](frontend/video/DocAdvisor%20App%20Video.mp4)
 
 ---
  
